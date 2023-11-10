@@ -1,16 +1,16 @@
 [![Header](https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header.gif?raw=true)](https://www.youtube.com/watch?v=Xy_zGSpz_38)
 
-<h1 align="center">
+<h2 align="center">
 	I am an initial web developer
-</h1>
+</h2>
 
 <a>
 	Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry.
 </a>
 
-<h1 align="center">
+<h2 align="center">
 	Languages and Tools
-</h1>
+</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=d6d6d6)
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=d6d6d6)
@@ -29,9 +29,9 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vue.js&logoColor=d6d6d6)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=d6d6d6)
 
-<h1 align="center">
+<h2 align="center">
 	Profile Statistics
-</h1>
+</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img height=200 src="https://github-readme-stats.vercel.app/api?username=dontkillmeseptember&show_icons=true&theme=dark&icon_color=d6d6d6&locale=en&hide_border=true&bg_color=000000" />
@@ -39,9 +39,9 @@
  src="https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header_two.png?raw=true" />
 </a>
 
-<h1 align="center">
+<h2 align="center">
 	Follow Me
-</h1>
+</h2>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=d6d6d6)](https://www.youtube.com/channel/UCfIR8KClMlEUKm-xKMHZTVA)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=d6d6d6)](https://vk.com/dontkillmeseptember)
