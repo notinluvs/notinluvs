@@ -4,7 +4,9 @@
 	I am an initial web developer
 </h1>
 
-Learning
+<a>
+	Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry.
+</a>
 
 <h1 align="center">
 	Languages and Tools
