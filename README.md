@@ -1,6 +1,6 @@
 [![Header](https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header.gif?raw=true)](https://www.youtube.com/watch?v=Xy_zGSpz_38)
 
-<h2 align="center">
+<h2>
 	I am an initial web developer
 </h2>
 
