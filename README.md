@@ -41,4 +41,5 @@ Learning
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img height=200 src="https://github-readme-stats.vercel.app/api?username=dontkillmeseptember&show_icons=true&theme=dark&icon_color=d6d6d6&locale=en&hide_border=true&bg_color=000000" />
+	<img  height=200 src="https://github.com/dontkillmeseptember/DiBot/blob/v3.4.8/content/DiBot.png?raw=true" />
 </a>
