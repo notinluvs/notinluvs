@@ -48,7 +48,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=d6d6d6)](https://www.youtube.com/channel/UCfIR8KClMlEUKm-xKMHZTVA)
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=d6d6d6)](https://vk.com/dontkillmeseptember)
 [![TG](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=d6d6d6)](https://t.me/slavkkkkk)
-[![INST](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6)](https://www.instagram.com/dontkillmeseptember/)
+[![INST](https://img.shields.io/badge/-inst-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6)](https://www.instagram.com/dontkillmeseptember/)
 [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=d6d6d6)](https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6)](https://leetcode.com/killmeseptember/)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=d6d6d6)](https://steamcommunity.com/id/dontkillmeseptember/)
