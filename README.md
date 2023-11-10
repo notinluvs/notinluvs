@@ -8,10 +8,9 @@
 
 <div>
 	<p>
-		Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry.
+		Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry. Plans for the year 2024.
 	</p>
 	<a>
-		<a>...Plans for the year 2024</a>
 		<li>Not to die...</li>
 		<li>Become the new Pavel Durov...</li>
 	</a>
