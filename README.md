@@ -52,3 +52,4 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=d6d6d6)](https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6)](https://leetcode.com/killmeseptember/)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=d6d6d6)](https://steamcommunity.com/id/dontkillmeseptember/)
+[![CodeWars](https://img.shields.io/badge/-codewars-000000?style=for-the-badge&logo=codewars&logoColor=d6d6d6)](https://www.codewars.com/users/dontkillmeseptember)
