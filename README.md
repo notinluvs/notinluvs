@@ -1,8 +1,10 @@
 [![Header](https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header.gif?raw=true)](https://www.youtube.com/watch?v=Xy_zGSpz_38)
 
-<h2>
-	I am an initial web developer
-</h2>
+<a>
+	<h2 align="center">
+		I am an initial web developer
+	</h2>
+</a>
 
 <a>
 	Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry.
