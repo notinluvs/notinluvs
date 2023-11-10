@@ -30,6 +30,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=Vite&logoColor=d6d6d6)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vue.js&logoColor=d6d6d6)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=d6d6d6)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=Swift&logoColor=d6d6d6)
 
 <h2 align="center">
 	Profile Statistics
