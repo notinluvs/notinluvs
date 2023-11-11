@@ -2,7 +2,7 @@
 
 <a>
 	<h2 align="center">
-		I am an initial web developer
+		A little story about me
 	</h2>
 </a>
 
