@@ -13,6 +13,7 @@
 	<a>
 		<li>Not to die...</li>
 		<li>Become the new Pavel Durov...</li>
+		<li>Learn fucking C++</li>
 	</a>
 </div>
 
