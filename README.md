@@ -13,7 +13,6 @@
 	<a>
 		<li>Not to die...</li>
 		<li>Become the new Pavel Durov...</li>
-		<li>Learn fucking C++</li>
 	</a>
 </div>
 
@@ -63,12 +62,7 @@
 	<a href="https://t.me/slavkkkkk"><img alt="TG" src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=d6d6d6" /></a>
 	<a href="https://www.instagram.com/dontkillmeseptember/"><img alt="INST" src="https://img.shields.io/badge/-inst-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6" /></a>
 	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=d6d6d6" /></a>
-<<<<<<< HEAD
 	<a href="https://leetcode.com/killmeseptember/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6" /></a>
 	<a href="https://wakatime.com/@HahIWillWin"><img alt="WakaTime" src="https://img.shields.io/badge/-WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=d6d6d6" /></a>
-=======
-	<a href="https://leetcode.com/dontkillmeseptember/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6" /></a>
-	<a href="https://steamcommunity.com/id/dontkillmeseptember/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=Steam&logoColor=d6d6d6" /></a>
->>>>>>> d2713ac82ff7f5ea2a0910287e47c6e4fad2b62c
 	<a href="https://www.codewars.com/users/dontkillmeseptember"><img alt="CodeWars" src="https://img.shields.io/badge/-codewars-000000?style=for-the-badge&logo=codewars&logoColor=d6d6d6" /></a>
 </div>
