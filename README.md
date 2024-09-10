@@ -58,11 +58,11 @@
 
 <div align="center">
 	<a href="https://www.youtube.com/channel/UCfIR8KClMlEUKm-xKMHZTVA"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=d6d6d6" /></a>
-	<a href="https://vk.com/dontkillmeseptember"><img alt="VK" src="https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=d6d6d6" /></a>
-	<a href="https://t.me/slavkkkkk"><img alt="TG" src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=d6d6d6" /></a>
-	<a href="https://www.instagram.com/dontkillmeseptember/"><img alt="INST" src="https://img.shields.io/badge/-inst-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6" /></a>
+	<a href="https://vk.com/notinluv"><img alt="VK" src="https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=d6d6d6" /></a>
+	<a href="https://t.me/notinluv"><img alt="TG" src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=d6d6d6" /></a>
+	<a href="https://www.instagram.com/notinluvs/"><img alt="INST" src="https://img.shields.io/badge/-inst-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6" /></a>
 	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=d6d6d6" /></a>
-	<a href="https://leetcode.com/killmeseptember/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6" /></a>
-	<a href="https://wakatime.com/@HahIWillWin"><img alt="WakaTime" src="https://img.shields.io/badge/-WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=d6d6d6" /></a>
+	<a href="https://leetcode.com/u/notinluv/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d6d6d6" /></a>
+	<a href="https://wakatime.com/@NotInLuv"><img alt="WakaTime" src="https://img.shields.io/badge/-WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=d6d6d6" /></a>
 	<a href="https://www.codewars.com/users/dontkillmeseptember"><img alt="CodeWars" src="https://img.shields.io/badge/-codewars-000000?style=for-the-badge&logo=codewars&logoColor=d6d6d6" /></a>
 </div>
