@@ -21,23 +21,15 @@
 </h2>
 
 <div align="center">
+	<img alt="C++" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=CPLUSPLUS&logoColor=d6d6d6" />
+	<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=d6d6d6" />
 	<img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=d6d6d6" />
-	<img alt="JS" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=d6d6d6" />
-	<img alt="React" src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=d6d6d6" />
-	<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=d6d6d6" />
+	<img alt="UE" src="https://img.shields.io/badge/-Unreal Engine-000000?style=for-the-badge&logo=Unreal Engine&logoColor=d6d6d6" />
 	<img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=d6d6d6" />
 	<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=AdobePhotoshop&logoColor=d6d6d6" />
 	<img alt="GIT" src="https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT&logoColor=d6d6d6" />
-	<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=Node.js&logoColor=d6d6d6" />
-	<img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=d6d6d6" />
-	<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=FastAPI&logoColor=d6d6d6" />
-	<img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=d6d6d6" />
-	<img alt="HTML" src="https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=d6d6d6" />
-	<img alt="CSS" src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=d6d6d6" />
-	<img alt="VITE" src="https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=Vite&logoColor=d6d6d6" />
-	<img alt="VUE" src="https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vue.js&logoColor=d6d6d6" />
-	<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=d6d6d6" />
-	<img alt="Swift" src="https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=Swift&logoColor=d6d6d6" />
+	<img alt="Premiere" src="https://img.shields.io/badge/-Premiere-000000?style=for-the-badge&logo=AdobePremierePro&logoColor=d6d6d6" />
+	<img alt="Blender" src="https://img.shields.io/badge/-blender-000000?style=for-the-badge&logo=blender&logoColor=d6d6d6" />
 </div>
 
 <h2 align="center">
