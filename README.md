@@ -8,11 +8,11 @@
 
 <div>
 	<p>
-		Hi there, I'm Vyacheslav! I'm 22 years old and deeply passionate about the world of web development. Since I first delved into this exciting field, I've found a powerful source of inspiration. My goal is to become a Full Stack developer and master all aspects of this industry. Plans for the year 2024.
+		Hi there, I'm Vyacheslav! I'm 23 years, blockchain developer in progress. Former web developer diving deep into blockchain technology with a focus on Solidity and C++. Currently learning to build my own blockchain and exploring the power of decentralized solutions.
 	</p>
 	<a>
-		<li>Not to die...</li>
-		<li>Become the new Pavel Durov...</li>
+		<li>Become a top one.</li>
+		<li>Become the new Pavel Durov.</li>
 	</a>
 </div>
 
