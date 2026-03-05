@@ -1,4 +1,4 @@
-[![Header](https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header.gif?raw=true)](https://www.youtube.com/watch?v=Xy_zGSpz_38)
+[![Header](https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header.gif?raw=true)](https://www.youtube.com/watch?v=lmg9tMif81s&list=RDlmg9tMif81s&start_radio=1)
 
 <a>
 	<h2 align="center">
@@ -8,12 +8,20 @@
 
 <div>
 	<p>
-		Hi there, I'm Vyacheslav! I'm 23 years, blockchain developer in progress. Former web developer diving deep into blockchain technology with a focus on Solidity and C++. Currently learning to build my own blockchain and exploring the power of decentralized solutions.
+		Hi, I'm Mark 👋
+	</p>
+	<p>
+		Python Developer focused on Telegram bot development and automation.
+	</p>
+	<p>
+		I build tools that help businesses automate:
 	</p>
 	<a>
-		<li>Become a top one.</li>
-		<li>Become the new Pavel Durov.</li>
+		• Customer bookings
 	</a>
+	<p>
+		• Lead generation
+	</p>
 </div>
 
 <h2 align="center">
@@ -21,18 +29,15 @@
 </h2>
 
 <div align="center">
-	<img alt="C++" src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=CPLUSPLUS&logoColor=d6d6d6" />
-	<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=d6d6d6" />
-	<img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=d6d6d6" />
-	<img alt="UE" src="https://img.shields.io/badge/-Unreal Engine-000000?style=for-the-badge&logo=Unreal Engine&logoColor=d6d6d6" />
-	<img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=d6d6d6" />
-	<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=AdobePhotoshop&logoColor=d6d6d6" />
-	<img alt="GIT" src="https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=GIT&logoColor=d6d6d6" />
-	<img alt="Premiere" src="https://img.shields.io/badge/-Premiere-000000?style=for-the-badge&logo=AdobePremierePro&logoColor=d6d6d6" />
-	<img alt="Blender" src="https://img.shields.io/badge/-blender-000000?style=for-the-badge&logo=blender&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-Sheets-000000?style=for-the-badge&logo=GoogleSheets&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=d6d6d6" />
+	<img alt="C++" src="https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=Redis&logoColor=d6d6d6" />
 </div>
 
-<h2 align="center">
+<!-- <h2 align="center">
 	Profile Statistics
 </h2>
 
@@ -42,7 +47,7 @@
 		<img  height=200 hspace=27
 	src="https://github.com/dontkillmeseptember/dontkillmeseptember/blob/main/assets/header_two.png?raw=true" />
 	</a>
-</div>
+</div> -->
 
 <h2 align="center">
 	Follow Me
@@ -50,7 +55,6 @@
 
 <div align="center">
 	<a href="https://www.youtube.com/channel/UCfIR8KClMlEUKm-xKMHZTVA"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=d6d6d6" /></a>
-	<a href="https://vk.com/notinluv"><img alt="VK" src="https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=d6d6d6" /></a>
 	<a href="https://t.me/notinluv"><img alt="TG" src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=d6d6d6" /></a>
 	<a href="https://www.instagram.com/notinluvs/"><img alt="INST" src="https://img.shields.io/badge/-inst-000000?style=for-the-badge&logo=instagram&logoColor=d6d6d6" /></a>
 	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=d6d6d6" /></a>
