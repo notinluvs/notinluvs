@@ -60,8 +60,8 @@
 </h2>
 
 <div align="center">
-	<a href="https://www.youtube.com/channel/UCfIR8KClMlEUKm-xKMHZTVA"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-173337?style=for-the-badge&logo=YouTube&logoColor=77d9d6" /></a>
+	<a href="https://www.youtube.com/@1NILStudio"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-173337?style=for-the-badge&logo=YouTube&logoColor=77d9d6" /></a>
 	<a href="https://t.me/notinluv"><img alt="TG" src="https://img.shields.io/badge/-Telegram-173337?style=for-the-badge&logo=Telegram&logoColor=77d9d6" /></a>
 	<a href="https://www.instagram.com/notinluvs/"><img alt="INST" src="https://img.shields.io/badge/-inst-173337?style=for-the-badge&logo=instagram&logoColor=77d9d6" /></a>
-	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-173337?style=for-the-badge&logo=Spotify&logoColor=77d9d6" /></a>
+	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz?si=61d839eb65224e21"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-173337?style=for-the-badge&logo=Spotify&logoColor=77d9d6" /></a>
 </div>
