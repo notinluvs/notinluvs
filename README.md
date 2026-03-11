@@ -1,4 +1,10 @@
-[![Header](https://github.com/notinluvs/notinluvs/blob/main/assets/header_twotwo.gif?raw=true)](https://youtu.be/Gv1mkPkaU7g?si=sxI-Q9tPf3odjN6Z)
+<!-- [![Header](https://github.com/notinluvs/notinluvs/blob/main/assets/header_twotwo.gif?raw=true)](https://youtu.be/Gv1mkPkaU7g?si=sxI-Q9tPf3odjN6Z) -->
+
+<div align="center">
+	<a href="https://youtu.be/Gv1mkPkaU7g?si=sxI-Q9tPf3odjN6Z">
+	<img src="https://github.com/notinluvs/notinluvs/blob/main/assets/header_twotwo.gif?raw=true" alt="Header"/>
+	</a>
+</div>
 
 <a>
 	<h2 align="center">
